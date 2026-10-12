@@ -24,7 +24,7 @@ On souhaite écrire une fonction permettant de calculer la moyenne des valeurs c
 
 ```python
 def moyenne(valeurs):
-    ...
+    ...return mean(valeurs)
 ```
 
 - La fonction doit retourner la moyenne des valeurs de la liste qui lui est passée en paramètres.  
